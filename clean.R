@@ -6,3 +6,4 @@ b <- 6
 
 a/b
 head(a)
+str()
